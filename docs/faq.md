@@ -42,7 +42,7 @@ The `.ipynb` file contains the full notebook. The paired text file only contains
 
 ## Can I create a notebook from a text file?
 
-Certainly. Open your pre-existing scripts or Markdown files as notebooks with a click in Jupyter Notebook, and with the _Open as Notebook_ menu in JupyterLab.
+Certainly. Open your pre-existing scripts or Markdown files as notebooks with a click in Jupyter Notebook.  In Jupyterlab click on the file, then _Open With_ and _Notebook_.
 
 The text formats do not store the output cells. If you want to preserve these when you refresh the notebook, be sure to pair the text file to an `.ipynb` file.
 
